@@ -1,0 +1,18 @@
+{
+  "name": "R",
+  "version": "6.0.2",
+  "description": "baidu news",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-native": "^0.38.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "news"
+  ]
+}
+
